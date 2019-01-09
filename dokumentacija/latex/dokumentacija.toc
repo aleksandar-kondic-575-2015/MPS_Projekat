@@ -1,0 +1,20 @@
+\select@language {serbian}
+\contentsline {section}{\numberline {1}Izjava o samostalnoj izradi rada}{3}
+\contentsline {section}{\numberline {2}Projektni zadatak}{4}
+\contentsline {subsection}{\numberline {2.1}Format zahteva i odgovora u USART komunikaciji}{4}
+\contentsline {section}{\numberline {3}Tehni\IeC {\v c}ki opis sistema}{5}
+\contentsline {subsection}{\numberline {3.1}Razvojno okru\IeC {\v z}enje EasyMx PRO\texttrademark {} v7 for STM32\textsuperscript {\textregistered }}{5}
+\contentsline {subsection}{\numberline {3.2}EasyMx PRO\texttrademark {} v7 for STM32\textsuperscript {\textregistered } MCUcard with STM32F746VGT6}{6}
+\contentsline {subsection}{\numberline {3.3}mikroC PRO for ARM}{7}
+\contentsline {subsection}{\numberline {3.4}mikroProg Suite for ARM}{8}
+\contentsline {section}{\numberline {4}Tehni\IeC {\v c}ki uslovi}{9}
+\contentsline {subsection}{\numberline {4.1}Maksimalne ocene tehni\IeC {\v c}kih uslova ure\IeC {\dj }aja}{9}
+\contentsline {subsection}{\numberline {4.2}Generalni operativni uslovi ure\IeC {\dj }aja}{9}
+\contentsline {section}{\numberline {5}Prilog o primenjenim propisanim merama za\IeC {\v s}tite na radu u skladu sa Zakonom o bezbednosti i zdravlju na radu}{10}
+\contentsline {section}{\numberline {6}Predmer i predra\IeC {\v c}un radova i materijala}{11}
+\contentsline {section}{\numberline {7}Specifikacija materijala}{11}
+\contentsline {section}{\numberline {8}Potrebni odgovaraju\IeC {\'c}i prora\IeC {\v c}uni}{12}
+\contentsline {section}{\numberline {9}Odgovaraju\IeC {\'c}a grafi\IeC {\v c}ka dokumentacija}{13}
+\contentsline {subsection}{\numberline {9.1}\IeC {\v S}ema povezivanja senzora, mikrokontrolera i spoljnjeg ure\IeC {\dj }aja koji \IeC {\v s}alje zahteve}{13}
+\contentsline {subsection}{\numberline {9.2}Relevantne blok \IeC {\v s}eme mikrokontrolera}{14}
+\contentsline {section}{\numberline {10}Literatura}{17}
